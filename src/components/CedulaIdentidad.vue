@@ -22,10 +22,10 @@ export default {
     <aside>
       <div>
         <span>CEDULA DE INDENTIDAD</span>
-        <img width="40" src="../assets/img/chile_bandera.png" alt="" />
+        <img width="40" src="/img/chile_bandera.png" alt="" />
       </div>
 
-      <img src="../assets/img/foto_elon.jpg" alt="" />
+      <img src="/img/foto_elon.jpg" alt="" />
       <p>RUN {{ run }}</p>
     </aside>
 
